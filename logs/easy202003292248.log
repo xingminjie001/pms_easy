@@ -1,0 +1,6 @@
+2020-03-29 22:48:50,900 - easy - INFO - case_id1.0请求时间为66957
+2020-03-29 22:48:50,900 - easy - INFO - case_id1.0入参{"htlcd": "lc01", "tokenuser": "9897", "tokenpwd": "sunwood", "isformal": "True","mac": "6C-0B-84-08-06-78"}
+2020-03-29 22:48:50,901 - easy - INFO - case_id1.0出参{"ErrInfo":"\u6210\u529f","Token":"9F0B79E309A5AAE0826DD11F3892154A593C53E6","OverTime":"2020\/03\/29 23:16:00","ErrNo":"0"}
+2020-03-29 22:48:52,890 - easy - INFO - case_id2.0请求时间为968580
+2020-03-29 22:48:52,891 - easy - INFO - case_id2.0入参{"staffpassword": "sunwood", "token": "9F0B79E309A5AAE0826DD11F3892154A593C53E6", "isformal": "True", "htlcd": "lc01", "mac": "6C-0B-84-08-06-78", "RQData_PostTran": [{"tranCd": "001", "tranAmt": "10", "acctNum": "2501935", "trnRef": ""}], "grpcd": "lc", "staffcd": "9897"}
+2020-03-29 22:48:52,891 - easy - INFO - case_id2.0出参{"Result":null,"RSData_CopyInfo":[],"DataList":null,"CardNums":null,"RmStatus":null,"ErrInfo":"\u6210\u529f","AuthorizeTrnId":null,"ErrNo":"0","RSData_ResvInfo":[],"HtlDate":null}

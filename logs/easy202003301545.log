@@ -1,0 +1,3 @@
+2020-03-30 15:45:47,337 - easy - INFO - case_id1.0请求时间为151910
+2020-03-30 15:45:47,337 - easy - INFO - case_id1.0入参{"htlcd": "lc01", "tokenuser": "9897", "tokenpwd": "sunwood", "isformal": "True","mac": "6C-0B-84-08-06-78"}
+2020-03-30 15:45:47,337 - easy - INFO - case_id1.0出参{"ErrNo":"0","ErrInfo":"\u6210\u529f","Token":"1DBFBF9F26ECF71AE23944349195134CDCCB7C19","OverTime":"2020\/03\/30 16:13:00"}
